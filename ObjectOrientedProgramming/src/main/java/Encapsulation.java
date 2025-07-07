@@ -11,6 +11,6 @@ public class Encapsulation {
         Employee e1 = new Employee("Chawon", "Hangaan", "FrontEnd");
         Employee e2 = new Employee();
 
-        System.out.println(e2.getFirstName();
+        System.out.println(e2.getFirstName());
     }
 }
