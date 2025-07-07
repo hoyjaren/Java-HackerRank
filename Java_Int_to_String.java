@@ -43,6 +43,6 @@ class DoNotTerminate {
                 }
             }
         };
-        //System.setSecurityManager(securityManager);
+        //System.setSecurityManager(securityManager);S
     }
 }
