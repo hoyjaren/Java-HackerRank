@@ -6,7 +6,8 @@ public class Challenge {
         * Student Registration Simulation
         * Make the user input the number of students to be registered
         * Make the user input the credentials of the students
-        * firstname, lastname, year, section, course*/
+        * firstname, lastname, year, section, course
+        * */
 
         Scanner input = new Scanner(System.in);
 

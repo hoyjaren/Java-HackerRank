@@ -17,8 +17,8 @@ public class Students {
         System.out.println("Firstname : " + firstName);
         System.out.println("Lastname  : " + lastName);
         System.out.println("Year      : " + year);
-        System.out.println("Course    : " + firstName);
-        System.out.println("Section   : " + firstName);
+        System.out.println("Course    : " + course);
+        System.out.println("Section   : " + section);
 
     }
 
