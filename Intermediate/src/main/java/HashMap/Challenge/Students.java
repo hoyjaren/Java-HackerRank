@@ -54,7 +54,6 @@ public class Students {
     }
 
     void displayStudents(){
-        System.out.println("STUDENT INFORMATION");
         System.out.println("Name : " + firstName + " " + lastName);
         System.out.println("Course/Section: " + course + "-" +section);
         System.out.println("Age: " + age);
